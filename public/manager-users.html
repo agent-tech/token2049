@@ -85,7 +85,8 @@
         const tr = document.createElement("tr");
 
         const tdId = document.createElement("td");
-        tdId.textContent = user.user_id;
+        tdId.textContent = user.identifier;
+        //tdId.textContent = user.user_id;
 
         const tdVerified = document.createElement("td");
         tdVerified.textContent = user.is_verified ? "Yes" : "No";
