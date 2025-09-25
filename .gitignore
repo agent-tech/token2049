@@ -8,7 +8,5 @@ yarn.lock
 .env
 .DS_Store
 
-# Local config
-public/config.json
 
 .vscode/
