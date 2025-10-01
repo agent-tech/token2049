@@ -1,4 +1,4 @@
 {
-  "host": "https://api-staging.agent.tech",
-  "frontendDomain": "https://web-staging.agent.tech"
+  "host": "https://api-alpha.agent.tech",
+  "frontendDomain": "https://alpha.agent.tech"
 }
